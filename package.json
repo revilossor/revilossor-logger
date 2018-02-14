@@ -1,5 +1,5 @@
 {
-  "name": "revilossor_logger",
+  "name": "revilossor-logger",
   "version": "0.0.0",
   "description": "a javascript logger",
   "main": "lib/logger.js",
