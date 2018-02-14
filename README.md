@@ -15,3 +15,5 @@ Use it like this:
   // [UTC time] -- [ExampleLog] -- the answer is -- 42 -- ¯\_(ツ)_/¯
 
 ```
+
+You'll need LOGGING=true in your environment too!
